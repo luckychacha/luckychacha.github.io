@@ -9,7 +9,10 @@ tags:
 categories:
 - 安装方法
 ---
-# 关于在mac下安装hexo之后，使用hexo相关命令报错，如运行 `hexo server` 之后报错，可以运行以下命令
+# mac下安装hexo
+
+> 关于在mac下安装hexo之后，使用hexo相关命令报错，如运行 `hexo server` 之后报错，可以运行以下命令。
+
 
 ```shell
 npm uninstall hexo
